@@ -19,7 +19,7 @@ Tim suggests doing this every three months.
 Part 1: What if
 ^^^^^^^^^^^^^^^
 
-Define my fear by completing the sentence: **What if I _____?**
+Define your fear by completing the sentence: **What if I _____?**
 
 Example: *What if I apply for a new job?*
 
