@@ -7,9 +7,7 @@ Master the mind
 ===============
 
 Master the mind is a semi-structured collection of resources on topics relating
-to mastery of the mind. Mindfulness is considered our center of gravity, and
-from it we reach out to touch topics like calmness, composure, anxiety, and so
-on.
+to mastery of the mind. 
 
 
 .. toctree::
@@ -17,6 +15,8 @@ on.
    :caption: Sections:
 
    mindfulness_workshop/index
+   tim_ferris/index
+   quotes/index
 
 
 
@@ -24,13 +24,11 @@ on.
    :maxdepth: 2
    :caption: Raw materials:
 
-   sources
+   sources/index
 
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
