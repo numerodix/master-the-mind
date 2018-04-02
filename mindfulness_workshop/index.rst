@@ -68,6 +68,11 @@ Ways to avoid this:
   fingers of the other hand. This touch creates a sensation that the mind can
   perceive and therefore pay attention to, making it less likely to wander.
 
+Avoid assessing how well your meditation session is going, and how well it's
+going compared to other sessions. The mind is ever changing, and your sessions
+will differ too. Meditation is about practice, not about doing "well" or "not
+well".
+
 
 
 7/11 breathing and anchoring to calm down (practice)
@@ -85,3 +90,4 @@ Instructions:
    The out-breath should be longer than the in-breath.
 
 #. Focus your attention on the lower part of your body (your legs, your feet).
+   Feel the weight of your body on your feet.
