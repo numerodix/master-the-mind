@@ -6,3 +6,10 @@ Quotes worth remembering
     conversations you are willing to have.
 
     -- Tim Ferris
+
+---
+
+    Easy choices, hard life.
+    Hard choices, easy life.
+
+    -- Jerzy Gregorek
