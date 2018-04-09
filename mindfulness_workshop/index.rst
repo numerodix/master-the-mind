@@ -91,3 +91,66 @@ Instructions:
 
 #. Focus your attention on the lower part of your body (your legs, your feet).
    Feel the weight of your body on your feet.
+
+
+
+
+
+
+Day 2: Leaning into uncertainty
+-------------------------------
+
+
+
+Rational thinking (theory)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We spend the vast majority of our day *thinking rationally*. We leave only a small
+proportion of time letting the mind wander.
+
+Even so:
+
+* 90% of the thoughts we think are the same from day to day.
+
+* We know that intuition and creativity comes from *an unfocused mind*, a mind
+  left free to wander.
+
+Ideas:
+
+1. Plan time in the day to intentionally let the mind wander. Practice sensing,
+   instead of thinking. To stimulate creativity.
+
+
+
+Emotions and the rational mind (theory)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+As much as we like to think that we are rational, we know that emotions impact
+our thinking very strongly.
+
+What's surprising is that:
+
+* **An emotion lasts only 90 seconds.** It is our thoughts (the habit of
+  rumination) that sometimes keeps the emotion alive for hours or days!
+
+* Mindfulness allows us to *notice* what is triggering the emotion in us.
+  Without we don't understand why we feel how we feel (eg. angry).
+
+
+
+Thought buses (practice)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Picture your mind being like a bus terminal. Buses arrive all the time, ready
+to pick up passengers. In your mind, *thought buses* arrive, ready to take you
+away for a ride.
+
+The nature of the mind is such that thoughts arrive endlessly, *but you are not
+obligated to pursue each thought*. You can decide not to get on the bus.
+
+Instructions:
+
+1. Take six long breaths, inhaling and exhaling.
+
+#. Observe your thought as they come and go. Notice the thoughts as they
+   appear, but without getting on the bus. Simply watch them disappear again.
