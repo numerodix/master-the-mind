@@ -15,6 +15,7 @@ to mastery of the mind.
    :caption: Sections:
 
    mindfulness_workshop/index
+   seven_habits_book/index
    tim_ferris/index
    quotes/index
 
