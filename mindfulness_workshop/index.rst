@@ -154,3 +154,144 @@ Instructions:
 
 #. Observe your thought as they come and go. Notice the thoughts as they
    appear, but without getting on the bus. Simply watch them disappear again.
+
+
+
+
+
+
+Day 3: Responding to reacting
+-----------------------------
+
+
+
+Being present in the moment (theory)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Because* we spend so much of our day thinking rationally, we are often not
+present in the moment, and we miss the good things that happen in life.
+Instead, we reflect endlessly about the bad things that have happened in the
+past, and we (unintentionally) increase their importance.
+
+We can learn to appreciate life more if we learn to *savor the details of our
+experience*: the foods we eat, the moments we experience, the happy memories we
+have from past times.
+
+Ideas for being in the moment:
+
+1. Read a book.
+
+#. Play a game.
+
+#. Try a new food.
+
+#. Watch tv/a movie.
+
+#. Study a language.
+
+
+
+
+Understanding our own reactions (theory)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The way we react to a situation begins with sensations in our body. We can try
+to pinpoint where it is we feel the emotion: in the head, in the chest? etc
+
+Next, we should try to understand the emotion. An emotion we feel is like a
+phone call that we should respond to, so we need to "answer the phone". Once we
+can perceive the emotion there are several things we can do:
+
+* Label the emotion to understand what it's really about.
+
+* Distract yourself from it.
+
+* Make it non-threatening by understanding *what we're really at risk of*,
+  without blowing it out of proportion.
+
+
+
+
+Dealing with fear (theory)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The reason we often struggle to deal with fear is because we tend to turn away
+from it and are unwilling to face it.
+
+What we should do instead is let it run its course, so:
+
+1. Observe the fear.
+
+#. Allow the fear.
+
+#. Don't resist the fear.
+
+All of this makes the fear less dominating.
+
+...
+
+Here is a practical exercise to demonstrate: **eating a chilli**.
+
+Instructions:
+
+1. Prepare a chilli to eat, all on its own.
+
+#. Take small bites out of it. Chew slowly.
+   
+#. Let the sensation of pain slowly spread in your mouth.
+
+#. While this is happening you will begin to experience fear.
+
+   1. Practice breathing slowly as you eat the chilli.
+
+   2. Focus your attention on your feet.
+
+
+
+
+Accepting discontinuity (theory)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Often in life we have a goal in mind, but for whatever reason things happen
+that make achieving the goal more difficult, despite our best efforts.
+
+This is a case of *discontinuity*: we make a certain amount of progress towards
+the goal, and when we go off to do something else we expect that when we return
+we'll be able to pick up right where we left off. Instead we realize that a
+setback has occurred.
+
+Examples:
+
+* Training towards a fitness goal, then getting injured and having to re-do some
+  of what we did.
+
+* Making a schedule for the day, but then a train is late/cancelled and makes
+  you late for what you were going to do.
+
+* Getting done cleaning the house and expecting to have a clean house, but then
+  someone else makes a mess.
+
+* Falling ill or feeling tired, thus being unable to do or participate in
+  whatever you had planned.
+
+When the unplanned happens, we find it very upsetting (and often unjust). A
+setback like this can actually set us back much more than the incident itself,
+because we go on to ruminate about it for a long time.
+
+Instead, we should try to *accept the unexpected* and move on from there. Here
+is a story to illustrate this better:
+
+    Once upon a time in India some people were playing golf on a golf course
+    that was also frequented by monkeys. Quite often the players would
+    experience that a monkey would pick up the golf ball and run off with it,
+    eventually drop it somewhere other than where the golfer did. This
+    obviously violated the rules of the game, and meant they could not play as
+    normal.
+
+    Initially they tried various ways of keeping the monkeys out, but found
+    out that none of them really helped.
+
+    So instead they decided to introduce a new rule: keep playing the ball
+    from wherever the monkey dropped it. Pretend that was just part of the game.
+
+From this we get the phrase: **where the monkey dropped the ball**. 
